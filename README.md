@@ -1,5 +1,5 @@
 # Lingo
-A work in progress Swift Localization Library. Lingo will find all localization key-value pairs in `.string_` and put the keys in a easy to access global structure.
+A work in progress Swift Localization Library. Lingo will find all localization key-value pairs in `.strings` files and put the keys in a easy to access global structure.
 
 ## Installation
 TODO
