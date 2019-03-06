@@ -1,8 +1,9 @@
 # Lingo
 A work in progress Swift Localization Library. Lingo will find all localization key-value pairs in `.strings` files and put the keys in a easy to access global structure.
 
-## Installation
-TODO
+## Installation - TODO
+First, add to Podfile and pod install.
+Then add run script to the Pods build phases.
 
 ## Usage
 Build your app (shift + cmd + B). In the file you want to use Lingo, import Lingo:
