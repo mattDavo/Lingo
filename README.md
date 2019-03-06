@@ -1,0 +1,2 @@
+# Lingo
+Swift Localisation Library
