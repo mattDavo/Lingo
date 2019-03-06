@@ -1,0 +1,16 @@
+PODS:
+  - Lingo (0.0.1)
+
+DEPENDENCIES:
+  - Lingo (from `../`)
+
+EXTERNAL SOURCES:
+  Lingo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Lingo: 75a34b0256fd2bf90a94b80f90bf45b39646104f
+
+PODFILE CHECKSUM: f989f6bfcd2eece8ec5d3c592dd73ec28b676a82
+
+COCOAPODS: 1.5.3

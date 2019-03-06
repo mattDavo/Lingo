@@ -1,10 +1,9 @@
 /* 
-  Localized.strings
+  Navigation.strings
   LingoExample
 
   Created by Matthew Davidson on 6/3/19.
   Copyright © 2019 MatthewDavidson. All rights reserved.
 */
 
-"Welcome" = "Welcome";
-"helloWorld" = "Hello, world";
+"next" = "Siguiente";

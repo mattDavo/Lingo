@@ -1,0 +1,6 @@
+framework module Lingo {
+  umbrella header "Lingo-umbrella.h"
+
+  export *
+  module * { export * }
+}
